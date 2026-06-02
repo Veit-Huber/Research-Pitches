@@ -5,9 +5,9 @@ Each entry links the deck plus the core analytical frameworks used.
 
 | Pitch | Type | Date | Recommendation / Result |
 |---|---|---|---|
-| [Conrad Industries (CNRD)](equity/cnrd_equity-pitch_2026.pdf) | Equity Pitch | May 2026 | Buy - target USD 31.6, ~40% upside (5–7y) |
-| [US HY Corporate Credit Spread](macro-credit/us-hy-corp-spread_macro-credit-trade_2025.pdf) | Macro / Credit Trade | Dec 2025 | Long spread; +17.21% upside over 2y |
-| [Thales – Defending Tomorrow](strategy-ma/thales_ma-strategy_2026.pdf) | M&A / Strategy | Feb 2026 | Reject Rheinmetall merger (EPS −36%→−12% / 5y); acquire Almato AG (~€200M, 8x rev) |
+| [Conrad Industries (CNRD)](cnrd_equity-pitch_2026.pdf) | Equity Pitch | May 2026 | Buy - target USD 31.6, ~40% upside (5–7y) |
+| [US HY Corporate Credit Spread](us-hy-corp-spread_macro-credit-trade_2025.pdf) | Macro / Credit Trade | Dec 2025 | Long spread; +17.21% upside over 2y |
+| [Thales – Defending Tomorrow](thales_ma-strategy_2026.pdf) | M&A / Strategy | Feb 2026 | Reject Rheinmetall merger (EPS −36%→−12% / 5y); acquire Almato AG (~€200M, 8x rev) |
 
 ## Details
 
